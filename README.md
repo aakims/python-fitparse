@@ -71,7 +71,7 @@ python3 scripts/generate_profile.py /path/to/fit_sdk.zip fitparse/profile.py
 Donations
 ---------
 
-You can donate to Bitcoin address: `1GAYJEWCGDaY1FbSfdD8W9Qzevu14UJTX6`
+You can donate to Bitcoin address: `1PooPyStXWKZGUNqKYq3zNgTy6iutowaqp`
 
 
 License
